@@ -8,12 +8,12 @@ class Box {
 
       void setLength(int l);
       void setWidth(int w);
-      void setHeigth(int h);
+      void setHeight(int h);
        // write prototypes of getters for length, width and height
 
       int getLength();
       int getWidth();
-      int getHeigth();
+      int getHeight();
  
-       int calcVolume();
+      int calcVolume();
 };
